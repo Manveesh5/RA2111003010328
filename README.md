@@ -4,6 +4,7 @@
 int main()
 {
     int amount_given,bill_amount;
+    
     int quotient,remainder;
     printf("Enter amount:\n");
     scanf("%d",&amount_given);
