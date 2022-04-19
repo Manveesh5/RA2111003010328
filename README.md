@@ -2,7 +2,9 @@
 #include<stdio.h>
 
 int main()
+
 {
+
     int amount_given,bill_amount;
     
     int quotient,remainder;
